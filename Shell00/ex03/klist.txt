@@ -1,0 +1,9 @@
+Credentials cache: API:1424453
+        Principal: lniehues@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 19 19:54:19 2019  Nov 20 05:54:19 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 19 19:54:21 2019  Nov 20 05:54:19 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Nov 19 20:22:58 2019  Nov 20 05:54:19 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
+
+
